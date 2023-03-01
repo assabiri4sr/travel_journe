@@ -1,3 +1,10 @@
+# Why I create that basic page??
+
+I create this basic page to test my react skill, I didn't add nav or a lot of data because i just wanted to test how can i work with data in react.
+I create this basic app that can add more post by adding more data to data.js.
+If you have any advice that can help me you are more than welcome to share it here or in dm.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
